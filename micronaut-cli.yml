@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.coresine
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, aws-lambda, gradle, http-client, junit, kotlin, kotlin-application, logback, mongo-sync, readme, shade, testcontainers, yaml]
